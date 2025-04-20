@@ -1,4 +1,4 @@
-#include "ArduinoCalculus.h"
+#include "CalculusCore.h"
 #include <math.h>
 
 float (*ArduinoCalculus::savedFunc)(float) = nullptr;

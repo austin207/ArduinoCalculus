@@ -1,5 +1,5 @@
-#ifndef ARDUINO_CALCULUS_H
-#define ARDUINO_CALCULUS_H
+#ifndef CALCULUS_CORE_H
+#define CALCULUS_CORE_H
 
 #include <Arduino.h>
 
